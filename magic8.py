@@ -5,7 +5,7 @@
 #   NOTE:   Tuples use parenthese; list use square braces.
 
 import random
-answer_8_ball = ( "As I see it, yes", "Ask again later",
+answers_8_ball = ( "As I see it, yes", "Ask again later",
     "Better not tell you now", "cannot predict now",
     "concentrate and ask again", "Don't count on it",
     "It is certain", "it is decidedly so",
